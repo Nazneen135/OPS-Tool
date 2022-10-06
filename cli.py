@@ -1,12 +1,4 @@
-Final ops-tool cli
-
-
-
-
-
 #!/usr/bin/env python
-
-
 
 import logging
 
